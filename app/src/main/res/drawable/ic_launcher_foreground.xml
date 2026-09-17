@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield / Hexagonal Cyber Armor -->
+    <path
+        android:pathData="M54,23 L79,35 L79,66 L54,85 L29,66 L29,35 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00F0FF"
+        android:fillColor="#1500F0FF" />
+    <!-- Secondary Armor Inset -->
+    <path
+        android:pathData="M54,29 L73,38 L73,63 L54,78 L35,63 L35,38 Z"
+        android:strokeWidth="1.2"
+        android:strokeColor="#FF0055"
+        android:fillColor="#1A0D1826" />
+    <!-- Center Lightning Bolt / Turbo Blade -->
+    <path
+        android:pathData="M57,33 L44,52 L53,52 L49,73 L65,49 L55,49 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="44"
+                android:startY="33"
+                android:endX="65"
+                android:endY="73"
+                android:type="linear">
+                <item android:color="#00F0FF" android:offset="0.0" />
+                <item android:color="#FFB700" android:offset="0.5" />
+                <item android:color="#FF0055" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Speed streaks -->
+    <path
+        android:pathData="M23,54 L27,54 M81,54 L85,54 M26,45 L29,46 M79,46 L82,45"
+        android:strokeWidth="2"
+        android:strokeColor="#FFB700"
+        android:strokeLineCap="round" />
+</vector>

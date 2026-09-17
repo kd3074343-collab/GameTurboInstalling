@@ -1,0 +1,6 @@
+{
+  "name": "GAME TURBO PRO",
+  "description": "Professional premium Android gaming booster and control center with HUD monitoring, direct game launcher, gaming profiles, and DPI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

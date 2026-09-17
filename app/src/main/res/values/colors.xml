@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AMOLED & Gaming Dark Palette -->
+    <color name="bg_amoled">#06080D</color>
+    <color name="bg_surface">#0D111A</color>
+    <color name="bg_card">#121824</color>
+    <color name="bg_card_elevated">#172030</color>
+    <color name="bg_card_glass">#D9101622</color>
+    <color name="border_glass">#263347</color>
+    <color name="border_glow_cyan">#6600F0FF</color>
+    <color name="border_glow_crimson">#66FF0055</color>
+
+    <!-- Neon Accents -->
+    <color name="neon_cyan">#00F0FF</color>
+    <color name="neon_crimson">#FF0055</color>
+    <color name="neon_gold">#FFB700</color>
+    <color name="neon_emerald">#00FF88</color>
+    <color name="neon_purple">#A855F7</color>
+    <color name="neon_orange">#FF6600</color>
+
+    <!-- Typography Colors -->
+    <color name="text_high">#FFFFFF</color>
+    <color name="text_medium">#CBD5E1</color>
+    <color name="text_muted">#64748B</color>
+    <color name="text_dark">#1E293B</color>
+
+    <!-- Status Colors -->
+    <color name="status_good">#00FF88</color>
+    <color name="status_warning">#FFB700</color>
+    <color name="status_danger">#FF0055</color>
+    <color name="status_neutral">#38BDF8</color>
+
+    <!-- Standard Aliases for Theme -->
+    <color name="colorPrimary">#00F0FF</color>
+    <color name="colorPrimaryDark">#06080D</color>
+    <color name="colorAccent">#FF0055</color>
+    <color name="colorSurface">#0D111A</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
